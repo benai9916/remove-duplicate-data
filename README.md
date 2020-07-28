@@ -1,7 +1,7 @@
-# remove-duplicate-rows-
+# Remove-duplicate-data
 An important part of data analysis is to find and remove the duplicate row, duplicate value, or duplicated columns from the datasets.
 
-**In this repo you will learn:**
+###In this repo you will learn:
 1. How to detect duplicate data
 2. How to handle duplicate data
 
